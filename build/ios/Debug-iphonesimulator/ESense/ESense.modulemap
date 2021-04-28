@@ -1,0 +1,12 @@
+module ESense {
+  umbrella header "ESense-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module ESense.Swift {
+  header "/Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/ESense/Swift Compatibility Header/ESense-Swift.h"
+  requires objc
+}

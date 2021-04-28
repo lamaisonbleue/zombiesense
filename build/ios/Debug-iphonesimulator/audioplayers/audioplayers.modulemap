@@ -1,0 +1,12 @@
+module audioplayers {
+  umbrella header "audioplayers-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module audioplayers.Swift {
+  header "/Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/audioplayers/Swift Compatibility Header/audioplayers-Swift.h"
+  requires objc
+}

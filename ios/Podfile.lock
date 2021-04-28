@@ -1,0 +1,41 @@
+PODS:
+  - audioplayers (0.0.1):
+    - Flutter
+  - ESense (0.1.1)
+  - esense_flutter (0.2.0):
+    - ESense
+    - Flutter
+  - Flutter (1.0.0)
+  - path_provider (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audioplayers (from `.symlinks/plugins/audioplayers/ios`)
+  - esense_flutter (from `.symlinks/plugins/esense_flutter/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ESense
+
+EXTERNAL SOURCES:
+  audioplayers:
+    :path: ".symlinks/plugins/audioplayers/ios"
+  esense_flutter:
+    :path: ".symlinks/plugins/esense_flutter/ios"
+  Flutter:
+    :path: Flutter
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+
+SPEC CHECKSUMS:
+  audioplayers: 455322b54050b30ea4b1af7cd9e9d105f74efa8c
+  ESense: 0647aa77942dbc8407663242200ec54151389aef
+  esense_flutter: 2550aaf71e0baa24bc2948cb50a690965e6905b7
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+
+PODFILE CHECKSUM: a6de59bbe73fc1d1d14f07bebbbc8a8e41d09ecd
+
+COCOAPODS: 1.10.1

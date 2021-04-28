@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/ios/Runner/main.m \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/ios/Runner/AppDelegate.h

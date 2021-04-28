@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "1aab4bccf643ec13c0eb504f1d1a617f"
+build_time: [1619366094, 139492000]
+inputs:
+  "/Users/alexisdelaunay/Desktop/MobileComputing/Abschlussarbeit/Flutter/esense/ios/Runner/asd.swift": [1619335711, 152684808]
