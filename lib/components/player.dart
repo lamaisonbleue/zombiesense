@@ -66,7 +66,8 @@ class Player extends PositionComponent {
 
 // need to be between -1 and 1
   void moveByAccelerometer(AccelerometerChangeListener accel) {
-    this.direction = Offset(-accel.z, -accel.y);
+    if (!this.isDead)
+      this.direction = Offset(-accel.z, -accel.y);
   }
 
 

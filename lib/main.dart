@@ -75,7 +75,6 @@ class _MainMenuState extends State<MainMenu> {
           case ConnectionType.connected:
             _deviceStatus = 'connected';
             this.connected = true;
-            subscription2.cancel();
             _startListenToSensorEvents();
             break;
           case ConnectionType.unknown:
@@ -83,6 +82,10 @@ class _MainMenuState extends State<MainMenu> {
             break;
           case ConnectionType.disconnected:
             _deviceStatus = 'disconnected';
+            print('disconnected');
+            this.connected = false;
+            _pauseListenToSensorEvents();
+            runApp(MyApp());
             break;
           case ConnectionType.device_found:
             this.foundDevice = true;
@@ -104,13 +107,13 @@ class _MainMenuState extends State<MainMenu> {
     });
   }
 
-  
-
   void _startListenToSensorEvents() async {
     this.accel= null;
+    print("_startListenToSensorEvents");
+
     // subscribe to sensor event from the eSense device
     subscription = ESenseManager.sensorEvents.listen((event) {
-      //print('SENSOR event: $event');
+      //print('CONNECTION event: $event');
       setState(() {
         if (this.accel == null) {
           this.accel = new AccelerometerChangeListener(event.accel);
@@ -148,7 +151,6 @@ class _MainMenuState extends State<MainMenu> {
   void loadGame() {
     print('loadGame');
     this.startGame();
-    //this._pauseListenToSensorEvents().then((e) => this.startGame());
   }
 
   void startGame() {
@@ -157,7 +159,6 @@ class _MainMenuState extends State<MainMenu> {
       context,
       MaterialPageRoute(builder: (context) => gameController.widget),
     );
-    //runApp(gameController.widget);
   }
 
   void setBestRound(int round) {
