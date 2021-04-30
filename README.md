@@ -4,12 +4,13 @@
 - Game controlled with the eSense earbuds [eSense](https://www.esense.io/share/eSense-User-Documentation.pdf)
 ![IMG_1874](https://user-images.githubusercontent.com/67796174/116731204-b0959800-a9e9-11eb-9db9-596247721962.PNG)
 
-![IMG_1873](https://user-images.githubusercontent.com/67796174/116731209-b1c6c500-a9e9-11eb-8e76-62bb5cabb243.PNG)
+
 ![IMG_1872](https://user-images.githubusercontent.com/67796174/116731212-b3908880-a9e9-11eb-9733-33567fddb102.PNG)
 ![IMG_1871](https://user-images.githubusercontent.com/67796174/116731219-b68b7900-a9e9-11eb-923d-cb70f6f02ca7.PNG)
 ![IMG_1870](https://user-images.githubusercontent.com/67796174/116731224-b7bca600-a9e9-11eb-965a-9b4b94060a19.PNG)
 ![IMG_1869](https://user-images.githubusercontent.com/67796174/116731259-c1dea480-a9e9-11eb-9b8b-da2d75657174.PNG)
 ![IMG_1868](https://user-images.githubusercontent.com/67796174/116731263-c3a86800-a9e9-11eb-80a5-c104dcb2017b.jpg)
+![das](https://user-images.githubusercontent.com/67796174/116731381-e89cdb00-a9e9-11eb-99db-1b73dfac467c.PNG)
 
 
 
