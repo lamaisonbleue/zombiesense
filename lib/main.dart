@@ -22,7 +22,7 @@ class _MainMenuState extends State<MainMenu> {
   final RoundedLoadingButtonController connectDeviceController = new RoundedLoadingButtonController();
   final RoundedLoadingButtonController reinitializeAccelController = new RoundedLoadingButtonController();
 
-  String _deviceStatus = '';
+  String _deviceStatus = ''; // mainly for debug
   bool sampling = false;
   bool connected = false;
   bool foundDevice = false;
