@@ -2,15 +2,18 @@
 
 - A new Flutter application created for the Mobile Computing Module (KIT).
 - Game controlled with the eSense earbuds [eSense](https://www.esense.io/share/eSense-User-Documentation.pdf)
-![IMG_1874](https://user-images.githubusercontent.com/67796174/116731204-b0959800-a9e9-11eb-9db9-596247721962.PNG)
 
 
-![IMG_1872](https://user-images.githubusercontent.com/67796174/116731212-b3908880-a9e9-11eb-9733-33567fddb102.PNG)
-![IMG_1871](https://user-images.githubusercontent.com/67796174/116731219-b68b7900-a9e9-11eb-923d-cb70f6f02ca7.PNG)
-![IMG_1870](https://user-images.githubusercontent.com/67796174/116731224-b7bca600-a9e9-11eb-965a-9b4b94060a19.PNG)
-![IMG_1869](https://user-images.githubusercontent.com/67796174/116731259-c1dea480-a9e9-11eb-9b8b-da2d75657174.PNG)
-![IMG_1868](https://user-images.githubusercontent.com/67796174/116731263-c3a86800-a9e9-11eb-80a5-c104dcb2017b.jpg)
-![das](https://user-images.githubusercontent.com/67796174/116731381-e89cdb00-a9e9-11eb-99db-1b73dfac467c.PNG)
+## Screenshots
+
+![IMG_1874](https://user-images.githubusercontent.com/67796174/116731476-066a4000-a9ea-11eb-8272-9f27c2da0e4b.PNG)
+
+![IMG_1873](https://user-images.githubusercontent.com/67796174/116731483-079b6d00-a9ea-11eb-8234-237439a7ce88.PNG)
+![das](https://user-images.githubusercontent.com/67796174/116731488-08cc9a00-a9ea-11eb-8b82-2d4dd4783b11.PNG)
+![IMG_1871](https://user-images.githubusercontent.com/67796174/116731495-0a965d80-a9ea-11eb-94ed-3a837057e5f3.PNG)
+![IMG_1870](https://user-images.githubusercontent.com/67796174/116731496-0bc78a80-a9ea-11eb-9d64-4bbb176c6314.PNG)
+![IMG_1869](https://user-images.githubusercontent.com/67796174/116731529-16821f80-a9ea-11eb-9510-550905815943.PNG)
+![IMG_1868](https://user-images.githubusercontent.com/67796174/116731532-17b34c80-a9ea-11eb-8306-b95ccdfca386.jpg)
 
 
 
